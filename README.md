@@ -1,4 +1,4 @@
-# python-nginx
+# docker-python-nginx
 
 ### How to run 
 
